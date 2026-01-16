@@ -13,19 +13,17 @@ with clear deployment workflows, monitoring, and failure-handling strategies.
 
 ## 🚀 Tech Stack
 
-## 🚀 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,jenkins,githubactions,gitlab,python,linux&perline=15)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,docker,kubernetes,jenkins,githubactions,python,linux)](https://skillicons.dev)
 
 
 ### 🧠 What I Build
 - AWS-native backend and serverless services
-- Release-gated and transaction-safe systems
 - CI/CD pipelines with automated checks
 - Cloud architectures focused on reliability and security
 - Cloud and Kubernetes platforms supporting high-availability workloads
 - Infrastructure as Code foundations using Terraform
-- CI/CD and release pipelines with safety, gating, and automation
+- Release pipelines with safety, gating, and automation
 - Secure cloud environments using DevSecOps and least-privilege IAM
 - Observability and reliability systems focused on fast detection and recovery      
 
